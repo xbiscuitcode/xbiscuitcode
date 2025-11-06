@@ -14,7 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
 </div>
 
-### :zap: Recent Activity
+### :zap: Activity
 <!--START_SECTION:activity-->
 - 🪟 Created https://github.com/bTechnologies-dev
 - 🔭 I’m currently working on [bTechnologies](https://btechnologies.dev/)
