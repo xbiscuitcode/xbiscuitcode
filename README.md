@@ -8,7 +8,6 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
@@ -18,7 +17,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🪟 Created [#6]([https://github.com/apkreader/JByteMod-Remastered/pull/6#issuecomment-2748668748](https://github.com/bTechnologies-dev)) 
+1. 🪟 Created https://github.com/bTechnologies-dev
 <!--END_SECTION:activity-->
 
 ###
