@@ -18,13 +18,3 @@
 <!--START_SECTION:activity-->
 1. 🪟 Created https://github.com/bTechnologies-dev
 <!--END_SECTION:activity-->
-
-###
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apkreader/apkreader/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apkreader/apkreader/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/apkreader/apkreader/output/github-contribution-grid-snake.svg" />
-  </picture>
-
-###
