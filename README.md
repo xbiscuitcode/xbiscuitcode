@@ -1,26 +1,36 @@
-<h1 align="center">Hi 👋, I'm Biscuit</h1>
-<h3 align="center">A passionate Java developer from Germany</h3>
+<h3 align="center">Java Developer / Learning Reverse Engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=biscuitxcode&label=Profile%20views&color=0e75b6&style=flat" alt="biscuitxcode" /> </p>
+###
+<div align="center">
+  <img src="https://github-readme-stats-sigma-nine-45.vercel.app/api?username=apkreader&show_icons=true&theme=transparent" alt="biscuit's GitHub stats">
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biscuitxcode" alt="biscuitxcode" /></a> </p>
+###
 
-- 🔭 I’m currently working on [bTechnologies](https://btechnologies.dev/)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
+</div>
 
-- 📫 How to reach me **biscuit@btechnologies.dev**
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#6](https://github.com/apkreader/JByteMod-Remastered/pull/6#issuecomment-2748668748) in [apkreader/JByteMod-Remastered](https://github.com/apkreader/JByteMod-Remastered)
+2. 🎉 Merged PR [#6](https://github.com/apkreader/JByteMod-Remastered/pull/6) in [apkreader/JByteMod-Remastered](https://github.com/apkreader/JByteMod-Remastered)
+3. ❌ Closed PR [#27](https://github.com/sim0n/Caesium/pull/27) in [sim0n/Caesium](https://github.com/sim0n/Caesium)
+4. 💪 Opened PR [#9](https://github.com/qTechnologiesV2/qprotect-language/pull/9) in [qTechnologiesV2/qprotect-language](https://github.com/qTechnologiesV2/qprotect-language)
+5. 🎉 Merged PR [#8](https://github.com/qTechnologiesV2/qprotect-language/pull/8) in [qTechnologiesV2/qprotect-language](https://github.com/qTechnologiesV2/qprotect-language)
+<!--END_SECTION:activity-->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/biscuitxcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="biscuitxcode" height="30" width="40" /></a>
-<a href="https://discord.gg/dEA2KDMZ8z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dEA2KDMZ8z" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apkreader/apkreader/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apkreader/apkreader/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/apkreader/apkreader/output/github-contribution-grid-snake.svg" />
+  </picture>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biscuitxcode&show_icons=true&locale=en&layout=compact" alt="biscuitxcode" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biscuitxcode&show_icons=true&locale=en" alt="biscuitxcode" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biscuitxcode&" alt="biscuitxcode" /></p>
-
+###
