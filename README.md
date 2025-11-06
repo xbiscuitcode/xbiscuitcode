@@ -18,3 +18,8 @@
 <!--START_SECTION:activity-->
 1. 🪟 Created https://github.com/bTechnologies-dev
 <!--END_SECTION:activity-->
+
+
+- 🔭 I’m currently working on [bTechnologies](https://btechnologies.dev/)
+
+- 📫 How to reach me **biscuit@btechnologies.dev**
