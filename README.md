@@ -45,3 +45,9 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=biscuitxcode&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </div>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apkreader/apkreader/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apkreader/apkreader/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/apkreader/apkreader/output/github-contribution-grid-snake.svg" />
+  </picture>
